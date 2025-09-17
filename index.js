@@ -94,4 +94,15 @@ const filter_items = items.map((item) => {
   };
 });
 
-fs.writeFileSync("output.json", JSON.stringify(filter_items, null, 2), "utf-8");
+const unique_filter_items = filter_items.reduce((acc, cur) => {
+  if (!acc.find((item) => item.key === cur.key)) {
+    acc.push(cur);
+  }
+  return acc;
+}, []);
+
+fs.writeFileSync(
+  "output.json",
+  JSON.stringify(unique_filter_items, null, 2),
+  "utf-8"
+);
