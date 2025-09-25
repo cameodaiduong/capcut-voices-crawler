@@ -91,6 +91,8 @@ const filter_items = items.map((item) => {
     key: voice_type,
     language,
     tags: item.common_attr.tag_list,
+    provider: "capcut",
+    audio_preview: null,
   };
 });
 
