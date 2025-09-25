@@ -1,0 +1,408 @@
+{
+    "data": {
+        "default_selected_voice": {
+            "collected": false,
+            "cover_url": "https://cdn.hailuoai.video/moss/staging/2024-11-21-14/moss-audio/voice_cover//1732171403950960108-207331589841016.png?x-oss-process=image/resize,p_50/format,webp",
+            "create_time": 1739373889785,
+            "description": "A radiant and lively young adult female voice with a general American accent, full of energy and brightness.",
+            "file_id": "",
+            "generate_channel": 3,
+            "group_id": "0",
+            "parent_voice_id": "0",
+            "sample_audio": "https://cdn.hailuoai.video/moss/prod/2025-02-12-21/moss-audio/voice_sample_audio/sample/1739367238431177120-/hailuo-audio-0f3dff2ac93477cd432faf6ad3c2162b.mp3",
+            "tag_list": [
+                "English",
+                "Female",
+                "Young Adult",
+                "Lively",
+                "EN-US (General)"
+            ],
+            "uniq_id": "English_radiant_girl",
+            "update_time": 1739373889785,
+            "voice_id": "236835177529409",
+            "voice_name": "Radiant Girl",
+            "voice_status": 2
+        },
+        "t2a_model": [
+            {
+                "character": 5000,
+                "creditRatio": 1,
+                "description": "model_205_tip",
+                "img": "https://cdn.hailuo.ai/hailuo-voice-web/image/audio-speech-2-5-1.png",
+                "isNew": true,
+                "label": "model_205_title",
+                "usageDesc": "credit_usage_HD_1",
+                "usageTitle": "credit_usage_HD_0",
+                "value": "speech-2.5-hd-preview"
+            },
+            {
+                "character": 10000,
+                "cheaperText": "turbo_cheaper_tip",
+                "creditRatio": 0.6,
+                "description": "model_204_tip",
+                "img": "https://cdn.hailuo.ai/hailuo-voice-web/image/audio-speech-2-5.jpeg",
+                "isCheaper": true,
+                "isNew": true,
+                "label": "model_204_title",
+                "usageDesc": "credit_usage_Turbo_1",
+                "usageTitle": "credit_usage_Turbo_0",
+                "value": "speech-2.5-turbo-preview"
+            },
+            {
+                "character": 5000,
+                "creditRatio": 1,
+                "description": "model_202_tip",
+                "img": "https://cdn.hailuo.ai/hailuo-voice-web/image/hailuo-voice-model6.png",
+                "label": "model_202_title",
+                "usageDesc": "credit_usage_HD_1",
+                "usageTitle": "credit_usage_HD_0",
+                "value": "speech-02-hd"
+            },
+            {
+                "character": 10000,
+                "cheaperText": "turbo_cheaper_tip",
+                "creditRatio": 0.6,
+                "description": "model_203_tip",
+                "img": "https://cdn.hailuo.ai/hailuo-voice-web/image/hailuo-voice-model7.png",
+                "isCheaper": true,
+                "label": "model_203_title",
+                "usageDesc": "credit_usage_Turbo_1",
+                "usageTitle": "credit_usage_Turbo_0",
+                "value": "speech-02-turbo"
+            },
+            {
+                "character": 5000,
+                "creditRatio": 1,
+                "description": "model_200_tip",
+                "img": "https://cdn.hailuo.ai/hailuo-voice-web/image/hailuo-voice-model2.png",
+                "label": "model_200_title",
+                "usageDesc": "credit_usage_HD_1",
+                "usageTitle": "credit_usage_HD_0",
+                "value": "speech-01-hd"
+            },
+            {
+                "character": 10000,
+                "cheaperText": "turbo_cheaper_tip",
+                "creditRatio": 0.6,
+                "description": "model_191_tip",
+                "img": "https://cdn.hailuo.ai/hailuo-voice-web/image/hailuo-voice-model1.png",
+                "isCheaper": true,
+                "label": "model_191_title",
+                "usageDesc": "credit_usage_Turbo_1",
+                "usageTitle": "credit_usage_Turbo_0",
+                "value": "speech-01-turbo"
+            }
+        ],
+        "t2v_gender": [
+            {
+                "label": "Female",
+                "value": "Female"
+            },
+            {
+                "label": "Male",
+                "value": "Male"
+            }
+        ],
+        "voice_tag_accent": [
+            {
+                "language": "English",
+                "tag_name": "EN-US (General)"
+            },
+            {
+                "language": "English",
+                "tag_name": "EN-Australian"
+            },
+            {
+                "language": "English",
+                "tag_name": "EN-British"
+            },
+            {
+                "language": "English",
+                "tag_name": "EN-Indian"
+            },
+            {
+                "language": "Chinese (Mandarin)",
+                "tag_name": "CN-Northern"
+            },
+            {
+                "language": "Chinese (Mandarin)",
+                "tag_name": "CN-Southern"
+            }
+        ],
+        "voice_tag_age": [
+            {
+                "tag_name": "Youth"
+            },
+            {
+                "tag_name": "Young Adult"
+            },
+            {
+                "tag_name": "Adult"
+            },
+            {
+                "tag_name": "Middle Aged"
+            },
+            {
+                "tag_name": "Senior"
+            }
+        ],
+        "voice_tag_gender": [
+            {
+                "tag_name": "Male"
+            },
+            {
+                "tag_name": "Female"
+            }
+        ],
+        "voice_tag_language": [
+            {
+                "code": "eng",
+                "sample_text": "Hello, I'm delighted to assist you with our voice services. Choose a voice that resonates with you, and let's begin our creative audio journey together",
+                "tag_name": "English",
+                "tag_value": "English"
+            },
+            {
+                "code": "vie",
+                "sample_text": "Xin chào, tôi rất vui được hỗ trợ bạn với các dịch vụ giọng nói của chúng tôi. Hãy chọn một giọng nói phù hợp với bạn và cùng bắt đầu hành trình âm thanh sáng tạo của chúng ta",
+                "tag_name": "Vietnamese",
+                "tag_value": "Vietnamese"
+            },
+            {
+                "code": "arb",
+                "sample_text": "مرحبًا، يسعدني أن أقدم لكم خدماتنا الصوتي. أختر النبرة التي تثير اهتمامك، ودعنا ننطلق معاً في رحلة ساحرة لصناعة الصوت",
+                "tag_name": "Arabic",
+                "tag_value": "Arabic"
+            },
+            {
+                "code": "hk",
+                "sample_text": "你好,好開心可以為你提供配音服務。揀選你喜歡嘅聲音,同我一齊開啟聲音創作嘅精彩旅程",
+                "tag_name": "Cantonese",
+                "tag_value": "Cantonese"
+            },
+            {
+                "code": "cmn",
+                "sample_text": "您好,很高兴能为您提供配音服务。选择您感兴趣的音色,让我们一起开启声音创作的奇幻之旅吧。",
+                "tag_name": "Chinese (Mandarin)",
+                "tag_value": "Chinese (Mandarin)"
+            },
+            {
+                "code": "nld",
+                "sample_text": "Hallo, ik ben verheugd je te assisteren met onze stemdiensten. Kies een stem die bij je past en laten we samen aan onze creatieve audio-reis beginnen.",
+                "tag_name": "Dutch",
+                "tag_value": "Dutch"
+            },
+            {
+                "code": "fra",
+                "sample_text": "Bonjour, je suis ravi de vous accompagner dans nos services vocaux. Choisissez la voix qui vous inspire et créons ensemble votre projet sonore",
+                "tag_name": "French",
+                "tag_value": "French"
+            },
+            {
+                "code": "deu",
+                "sample_text": "Guten Tag, ich freue mich, Sie bei unseren Sprachdiensten unterstützen zu dürfen. Wählen Sie Ihre bevorzugte Stimme aus und lassen Sie uns gemeinsam Ihre Audio-Welt gestalten",
+                "tag_name": "German",
+                "tag_value": "German"
+            },
+            {
+                "code": "ind",
+                "sample_text": "Selamat datang, senang bisa membantu Anda dengan layanan suara kami. Silakan pilih karakter suara yang Anda sukai dan mari mulai perjalanan kreatif bersama",
+                "tag_name": "Indonesian",
+                "tag_value": "Indonesian"
+            },
+            {
+                "code": "ita",
+                "sample_text": "Buongiorno, sono lieto di assistervi con i nostri servizi vocali. Scegliete la voce che preferite e iniziamo insieme questo percorso creativo",
+                "tag_name": "Italian",
+                "tag_value": "Italian"
+            },
+            {
+                "code": "jpn",
+                "sample_text": "このたびは、音声生成サービスをご利用いただきありがとうございます。お好みの声をお選びいただき、音声創作の旅を楽しみましょう。",
+                "tag_name": "Japanese",
+                "tag_value": "Japanese"
+            },
+            {
+                "code": "kor",
+                "sample_text": "안녕하세요, 음성 서비스를 제공해 드릴 수 있어서 기쁩니다. 마음에 드시는 목소리를 선택하시면 함께 멋진 음성 제작을 시작해보도록 하겠습니다.",
+                "tag_name": "Korean",
+                "tag_value": "Korean"
+            },
+            {
+                "code": "por",
+                "sample_text": "Olá, é um prazer ajudá-lo com nossos serviços de voz. Escolha a voz que mais combina com você e vamos juntos criar algo especial",
+                "tag_name": "Portuguese",
+                "tag_value": "Portuguese"
+            },
+            {
+                "code": "rus",
+                "sample_text": "Здравствуйте, рад помочь вам с нашими голосовыми услугами. Выберите понравившийся голос, и давайте вместе создадим что-то особенное.",
+                "tag_name": "Russian",
+                "tag_value": "Russian"
+            },
+            {
+                "code": "spa",
+                "sample_text": "Hola, es un placer ayudarte con nuestros servicios de voz. Elige el tono de voz que más te guste y comencemos juntos esta aventura creativa",
+                "tag_name": "Spanish",
+                "tag_value": "Spanish"
+            },
+            {
+                "code": "tur",
+                "sample_text": "Merhaba, ses hizmetlerimizle size yardımcı olmaktan mutluluk duyuyorum. İhtiyaçlarınıza en uygun sesi seçin ve birlikte yaratıcı bir ses yolculuğuna başlayalım",
+                "tag_name": "Turkish",
+                "tag_value": "Turkish"
+            },
+            {
+                "code": "ukr",
+                "sample_text": "Привіт, я радий допомогти вам з нашими голосовими послугами. Виберіть голос, який вам подобається, і давайте розпочнемо нашу творчу аудіо-подорож разом.",
+                "tag_name": "Ukrainian",
+                "tag_value": "Ukrainian"
+            },
+            {
+                "code": "tha",
+                "sample_text": "สวัสดีค่ะ/ครับ ยินดีอย่างยิ่งที่ได้ช่วยคุณกับบริการเสียงของเรา เลือกเสียงที่เชื่อมโยง แล้วมาเริ่มต้นการเดินทางสร้างสรรค์ด้านเสียงไปด้วยกัน",
+                "tag_name": "Thai",
+                "tag_value": "Thai"
+            },
+            {
+                "code": "pol",
+                "sample_text": "Cześć, z przyjemnością pomogę Ci w korzystaniu z naszych usług głosowych. Wybierz głos, który z Tobą rezonuje, i rozpocznijmy razem kreatywną podróż dźwiękową",
+                "tag_name": "Polish",
+                "tag_value": "Polish"
+            },
+            {
+                "code": "ron",
+                "sample_text": "Bună, mă bucur să te asist cu serviciile noastre vocale. Alege o voce care rezonează cu tine și hai să începem împreună călătoria noastră audio creativă",
+                "tag_name": "Romanian",
+                "tag_value": "Romanian"
+            },
+            {
+                "code": "ell",
+                "sample_text": "Γεια σας, είναι χαρά μου να σας βοηθήσω με τις υπηρεσίες φωνής μας. Επιλέξτε μια φωνή που σας εκφράζει και ας ξεκινήσουμε μαζί το δημιουργικό μας ηχητικό ταξίδι",
+                "tag_name": "Greek",
+                "tag_value": "Greek"
+            },
+            {
+                "code": "ces",
+                "sample_text": "Dobrý den, je mi potěšením vám pomoci s našimi hlasovými službami. Vyberte si hlas, který s vámi rezonuje, a pojďme společně zahájit tvůrčí zvukovou cestu",
+                "tag_name": "Czech",
+                "tag_value": "Czech"
+            },
+            {
+                "sample_text": "Hei, ilo auttaa sinua äänipalveluissamme. Valitse ääni, joka puhuttelee sinua, ja aloitetaan yhdessä luova äänimatka",
+                "tag_name": "Finnish",
+                "tag_value": "Finnish"
+            },
+            {
+                "code": "hin",
+                "sample_text": "नमस्ते, हमारी वॉयस सेवाओं में आपकी सहायता करके मुझे खुशी हो रही है। वह आवाज़ चुनें जो आपके मन को भाए, और आइए मिलकर एक रचनात्मक ऑडियो यात्रा शुरू करें",
+                "tag_name": "Hindi",
+                "tag_value": "Hindi"
+            },
+            {
+                "code": "bul",
+                "sample_text": "Здравейте, радвам се да ви помогна с нашите гласови услуги. Изберете глас, който ви харесва, и нека започнем нашето творческо аудио пътешествие заедно.",
+                "tag_name": "Bulgarian",
+                "tag_value": "Bulgarian"
+            },
+            {
+                "code": "",
+                "sample_text": "Hej, jeg er glad for at hjælpe dig med vores stemmetjenester. Vælg en stemme, der taler til dig, og lad os begynde vores kreative lydrejse sammen.",
+                "tag_name": "Danish",
+                "tag_value": "Danish"
+            },
+            {
+                "code": "",
+                "sample_text": "שלום, אני שמח לסייע לך עם שירותי הקול שלנו. בחר בקול שמדבר אליך, ובואו נתחיל יחד את המסע האודיו היצירתי שלנו.",
+                "tag_name": "Hebrew",
+                "tag_value": "Hebrew"
+            },
+            {
+                "code": "zlm",
+                "sample_text": "Hello, saya gembira untuk membantu anda dengan perkhidmatan suara kami. Pilih suara yang sesuai dengan anda, dan mari kita mulakan perjalanan audio kreatif kita bersama-sama.",
+                "tag_name": "Malay",
+                "tag_value": "Malay"
+            },
+            {
+                "code": "pes",
+                "sample_text": "سلام، من خوشحالم که در خدمات صوتی ما به شما کمک کنم. صدایی را انتخاب کنید که با شما طنین‌انداز باشد و بیایید سفر صوتی خلاقانه‌مان را با هم آغاز کنیم.",
+                "tag_name": "Persian",
+                "tag_value": "Persian"
+            },
+            {
+                "code": "",
+                "sample_text": "Ahoj, som rád, že vám môžem pomôcť s našimi hlasovými službami. Vyberte si hlas, ktorý vám vyhovuje, a začnime spolu naše kreatívne zvukové putovanie.",
+                "tag_name": "Slovak",
+                "tag_value": "Slovak"
+            },
+            {
+                "code": "swe",
+                "sample_text": "Hej, jag är glad att hjälpa dig med våra rösttjänster. Välj en röst som tilltalar dig, och låt oss börja vår kreativa ljudresa tillsammans.",
+                "tag_name": "Swedish",
+                "tag_value": "Swedish"
+            },
+            {
+                "code": "hrv",
+                "sample_text": "Pozdrav, drago mi je pomoći vam s našim glasovnim uslugama. Odaberite glas koji vam odgovara i počnimo zajedno naše kreativno zvučno putovanje.",
+                "tag_name": "Croatian",
+                "tag_value": "Croatian"
+            },
+            {
+                "code": "",
+                "sample_text": "Pozdrav, drago mi je pomoći vam s našim glasovnim uslugama. Odaberite glas koji vam odgovara i počnimo zajedno naše kreativno zvučno putovanje.",
+                "tag_name": "Filipino",
+                "tag_value": "Filipino"
+            },
+            {
+                "code": "hun",
+                "sample_text": "Üdvözlöm, örömmel segítek Önnek hangszolgáltatásainkkal. Válasszon egy hangot, amely megtetszik Önnek, és kezdjük el együtt kreatív audio utazásunkat.",
+                "tag_name": "Hungarian",
+                "tag_value": "Hungarian"
+            },
+            {
+                "code": "",
+                "sample_text": "Hei, jeg er glad for å hjelpe deg med våre stemmetjenester. Velg en stemme som appellerer til deg, og la oss begynne vår kreative lydreise sammen.",
+                "tag_name": "Norwegian",
+                "tag_value": "Norwegian"
+            },
+            {
+                "code": "",
+                "sample_text": "Pozdravljeni, vesel sem, da vam lahko pomagam z našimi glasovnimi storitvami. Izberite glas, ki se vam zdi privlačen, in skupaj začnimo naše ustvarjalno zvočno potovanje.",
+                "tag_name": "Slovenian",
+                "tag_value": "Slovenian"
+            },
+            {
+                "code": "",
+                "sample_text": "Hola, em complau ajudar-vos amb els nostres serveis de veu. Trieu una veu que us ressoni, i comencem junts el nostre viatge àudio creatiu.",
+                "tag_name": "Catalan",
+                "tag_value": "Catalan"
+            },
+            {
+                "code": "",
+                "sample_text": "Hei, eg er glad for å hjelpe deg med stemmetenestene våre. Vel ein stemme som talar til deg, og lat oss byrje den kreative lydreisa vår saman.",
+                "tag_name": "Nynorsk",
+                "tag_value": "Nynorsk"
+            },
+            {
+                "code": "tam",
+                "sample_text": "Hei, eg er glad for å hjelpe deg med stemmetenestene våre. Vel ein stemme som talar til deg, og lat oss byrje den kreative lydreisa vår saman.",
+                "tag_name": "Tamil",
+                "tag_value": "Tamil"
+            },
+            {
+                "code": "",
+                "sample_text": "Hallo, ek is bly om jou te help met ons stemdienste. Kies 'n stem wat met jou resoneer, en kom ons begin ons kreatiewe klankjoernaal saam.",
+                "tag_name": "Afrikaans",
+                "tag_value": "Afrikaans"
+            }
+        ]
+    },
+    "statusInfo": {
+        "code": 0,
+        "httpCode": 0,
+        "message": "Success",
+        "serviceTime": 1754708798,
+        "requestID": "304e573e-1ee2-4958-8d2b-8f69b8d8e0ce",
+        "debugInfo": "Success",
+        "serverAlert": 0
+    }
+}

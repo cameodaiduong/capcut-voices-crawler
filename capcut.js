@@ -1,6 +1,6 @@
 import fs from "fs";
 
-const rawData = fs.readFileSync("./items.json", "utf-8");
+const rawData = fs.readFileSync("./raw_capcut.json", "utf-8");
 const items = JSON.parse(rawData);
 
 function detectCapcutLanguage(tagList) {
@@ -92,7 +92,7 @@ const filter_items = items.map((item) => {
     language,
     tags: item.common_attr.tag_list,
     provider: "capcut",
-    audio_preview: null,
+    sample_audio: null,
   };
 });
 
@@ -104,7 +104,7 @@ const unique_filter_items = filter_items.reduce((acc, cur) => {
 }, []);
 
 fs.writeFileSync(
-  "output.json",
+  "output_capcut_voices.json",
   JSON.stringify(unique_filter_items, null, 2),
   "utf-8"
 );

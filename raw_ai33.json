@@ -1,0 +1,282 @@
+[
+    {
+        "id": 34,
+        "created_at": "2025-08-06T20:13:43.032763+00:00",
+        "upload_data": {
+            "dir": "moss/prod/2025-08-07-04/user/multi_chat_file",
+            "size": "175169",
+            "fileMd5": "e50297c9a5f05eef6922eef0e72a1363",
+            "endpoint": "oss-us-east-1.aliyuncs.com",
+            "fileName": "1479f782-d645-4389-91c6-69829b7e9547.mp3",
+            "mimeType": "mpeg",
+            "fileScene": 11,
+            "bucketName": "hailuo-video",
+            "originFileName": "test.mp3"
+        },
+        "user_id": null,
+        "voice_info": {
+            "file_id": "298836796960934",
+            "uniq_id": "moss_audio_cf8965dd-7301-11f0-ad20-f2bc95e89150",
+            "group_id": "1952675798133514395",
+            "tag_list": [
+                "Vietnamese",
+                "Female",
+                "Clone"
+            ],
+            "voice_id": "298831571210471",
+            "collected": false,
+            "cover_url": "https://cdn.hailuoai.video/moss/staging/2024-11-21-14/moss-audio/voice_cover//1732171101706191124-207331589840988.png?x-oss-process=image/resize,p_50/format,webp",
+            "voice_name": "Nguyễn Ngân - Elevenlabs",
+            "create_time": 1754511222743,
+            "description": "",
+            "update_time": 1754511222743,
+            "sample_audio": "https://cdn.hailuoai.video/moss/prod/2025-08-07-04/moss-audio/voice/u_1952675798133514395/demo/1754511222315955792-298836796960934_Vietnamese.mp3",
+            "voice_status": 2,
+            "parent_voice_id": "0",
+            "generate_channel": 1
+        },
+        "ref": null,
+        "minimax_api_id": null,
+        "deleted_at": null
+    },
+    {
+        "id": 40,
+        "created_at": "2025-08-06T20:32:13.54754+00:00",
+        "upload_data": {
+            "dir": "moss/prod/2025-08-07-04/user/multi_chat_file",
+            "size": "293457",
+            "fileMd5": "7260d6e96e3340fff772939d2652ca99",
+            "endpoint": "oss-us-east-1.aliyuncs.com",
+            "fileName": "426adb4a-a7a8-4456-a42c-9ce2d2f1f5a1.mp3",
+            "mimeType": "mpeg",
+            "fileScene": 11,
+            "bucketName": "hailuo-video",
+            "originFileName": "0807(2).MP3"
+        },
+        "user_id": null,
+        "voice_info": {
+            "file_id": "298842129252486",
+            "uniq_id": "moss_audio_660bf5e6-7304-11f0-918f-4e0486034804",
+            "group_id": "1952675798133514398",
+            "tag_list": [
+                "Vietnamese",
+                "Male",
+                "Clone"
+            ],
+            "voice_id": "298839373959261",
+            "collected": false,
+            "cover_url": "https://cdn.hailuoai.video/moss/staging/2024-11-21-14/moss-audio/voice_cover//1732171556053389397-207334257025090.png?x-oss-process=image/resize,p_50/format,webp",
+            "voice_name": "Anh Khôi - VBee",
+            "create_time": 1754512333366,
+            "description": "",
+            "update_time": 1754512333366,
+            "sample_audio": "https://cdn.hailuoai.video/moss/prod/2025-08-07-04/moss-audio/voice/u_1952675798133514398/demo/1754512332939432365-298842129252486_Vietnamese.mp3",
+            "voice_status": 2,
+            "parent_voice_id": "0",
+            "generate_channel": 1
+        },
+        "ref": null,
+        "minimax_api_id": null,
+        "deleted_at": null
+    },
+    {
+        "id": 32,
+        "created_at": "2025-08-06T20:10:30.573827+00:00",
+        "upload_data": {
+            "dir": "moss/prod/2025-08-07-03/user/multi_chat_file",
+            "size": "307680",
+            "fileMd5": "7b0b4656edb2f5e6dc07d6bd7b73e122",
+            "endpoint": "oss-us-east-1.aliyuncs.com",
+            "fileName": "7627c6c5-7dd6-43a1-8eb0-d509d239d63e.mp3",
+            "mimeType": "mpeg",
+            "fileScene": 11,
+            "bucketName": "hailuo-video",
+            "originFileName": "alloy_tts-1-hd_1x_2025-08-06T20_06_08-691Z.mp3"
+        },
+        "user_id": null,
+        "voice_info": {
+            "file_id": "298836021792871",
+            "uniq_id": "moss_audio_5eb56be0-7301-11f0-ad20-f2bc95e89150",
+            "group_id": "1952678570606202937",
+            "tag_list": [
+                "Vietnamese",
+                "Male",
+                "Clone"
+            ],
+            "voice_id": "298831571210465",
+            "collected": false,
+            "cover_url": "https://cdn.hailuoai.video/moss/staging/2024-11-21-14/moss-audio/voice_cover//1732171514479796864-207331589841022.png?x-oss-process=image/resize,p_50/format,webp",
+            "voice_name": "Alloy - OpenAI",
+            "create_time": 1754511030376,
+            "description": "",
+            "update_time": 1754511030376,
+            "sample_audio": "https://cdn.hailuoai.video/moss/prod/2025-08-07-04/moss-audio/voice/u_1952678570606202937/demo/1754511029740633762-298836021792871_Vietnamese.mp3",
+            "voice_status": 2,
+            "parent_voice_id": "0",
+            "generate_channel": 1
+        },
+        "ref": null,
+        "minimax_api_id": null,
+        "deleted_at": null
+    },
+    {
+        "id": 38,
+        "created_at": "2025-08-06T20:29:15.846456+00:00",
+        "upload_data": {
+            "dir": "moss/prod/2025-08-07-04/user/multi_chat_file",
+            "size": "271305",
+            "fileMd5": "4b9616fee1631a8b8d17827d3b71b015",
+            "endpoint": "oss-us-east-1.aliyuncs.com",
+            "fileName": "a7103287-3045-4b45-89f5-afc4c62830ae.mp3",
+            "mimeType": "mpeg",
+            "fileScene": 11,
+            "bucketName": "hailuo-video",
+            "originFileName": "0807.MP3"
+        },
+        "user_id": null,
+        "voice_info": {
+            "file_id": "298841249120333",
+            "uniq_id": "moss_audio_fc1205e3-7303-11f0-87d3-b63243124dc4",
+            "group_id": "1952675798133514398",
+            "tag_list": [
+                "Vietnamese",
+                "Female",
+                "Clone"
+            ],
+            "voice_id": "298837653291221",
+            "collected": false,
+            "cover_url": "https://cdn.hailuoai.video/moss/staging/2024-11-21-14/moss-audio/voice_cover//1732171565701695345-207334257025092.png?x-oss-process=image/resize,p_50/format,webp",
+            "voice_name": "Ngọc Huyền - VBee",
+            "create_time": 1754512155552,
+            "description": "",
+            "update_time": 1754512155552,
+            "sample_audio": "https://cdn.hailuoai.video/moss/prod/2025-08-07-04/moss-audio/voice/u_1952675798133514398/demo/1754512154989768121-298841249120333_Vietnamese.mp3",
+            "voice_status": 2,
+            "parent_voice_id": "0",
+            "generate_channel": 1
+        },
+        "ref": null,
+        "minimax_api_id": null,
+        "deleted_at": null
+    },
+    {
+        "id": 3186,
+        "created_at": "2025-08-11T05:50:19.206773+00:00",
+        "upload_data": {
+            "dir": "moss/prod/2025-08-11-13/user/multi_chat_file",
+            "size": "1002285",
+            "fileMd5": "651d66c10a371d9904042613ec853980",
+            "endpoint": "oss-us-east-1.aliyuncs.com",
+            "fileName": "2dffe1d6-f8f3-4cde-a5fd-07ff3b1966bd.mp3",
+            "mimeType": "mpeg",
+            "fileScene": 11,
+            "bucketName": "hailuo-video",
+            "originFileName": "Shorts.mp3"
+        },
+        "user_id": null,
+        "voice_info": {
+            "file_id": "300394393391260",
+            "uniq_id": "moss_audio_04168d2e-7677-11f0-bac1-da740bc40fa1",
+            "group_id": "1954577597891355158",
+            "tag_list": [
+                "Vietnamese",
+                "Female",
+                "Clone"
+            ],
+            "voice_id": "300393121280221",
+            "collected": false,
+            "cover_url": "https://cdn.hailuoai.video/moss/staging/2024-11-21-14/moss-audio/voice_cover//1732171070538161266-207331589840981.png?x-oss-process=image/resize,p_50/format,webp",
+            "voice_name": "Vẫn Vẫn",
+            "create_time": 1754891419098,
+            "description": "",
+            "update_time": 1754891419098,
+            "sample_audio": "https://cdn.hailuoai.video/moss/prod/2025-08-11-13/moss-audio/voice/u_1954577597891355158/demo/1754891418654058589-300394393391260_Vietnamese.mp3",
+            "voice_status": 2,
+            "parent_voice_id": "0",
+            "generate_channel": 1
+        },
+        "ref": null,
+        "minimax_api_id": null,
+        "deleted_at": null
+    },
+    {
+        "id": 3212,
+        "created_at": "2025-08-11T05:59:43.075241+00:00",
+        "upload_data": {
+            "dir": "moss/prod/2025-08-11-13/user/multi_chat_file",
+            "size": "1710339",
+            "fileMd5": "83e526382f75c01f978b0e47c26ecec4",
+            "endpoint": "oss-us-east-1.aliyuncs.com",
+            "fileName": "d96e2cc3-a2f1-4efe-96b4-08417129201a.mp3",
+            "mimeType": "mpeg",
+            "fileScene": 11,
+            "bucketName": "hailuo-video",
+            "originFileName": "0808.MP3"
+        },
+        "user_id": null,
+        "voice_info": {
+            "file_id": "300396069544061",
+            "uniq_id": "moss_audio_52ccdec0-7678-11f0-ad85-4a8957831abe",
+            "group_id": "1954406678099136689",
+            "tag_list": [
+                "English",
+                "Male",
+                "Clone"
+            ],
+            "voice_id": "300396419883085",
+            "collected": false,
+            "cover_url": "https://cdn.hailuoai.video/moss/staging/2024-11-21-14/moss-audio/voice_cover//1732171434676353759-207331589841018.png?x-oss-process=image/resize,p_50/format,webp",
+            "voice_name": "Matthew",
+            "create_time": 1754891982967,
+            "description": "",
+            "update_time": 1754891982967,
+            "sample_audio": "https://cdn.hailuoai.video/moss/prod/2025-08-11-13/moss-audio/voice/u_1954406678099136689/demo/1754891982531601998-300396069544061_English.mp3",
+            "voice_status": 2,
+            "parent_voice_id": "0",
+            "generate_channel": 1
+        },
+        "ref": null,
+        "minimax_api_id": null,
+        "deleted_at": null
+    },
+    {
+        "id": 335940,
+        "created_at": "2025-09-23T17:20:24.813842+00:00",
+        "upload_data": {
+            "dir": "moss/prod/2025-09-24-01/user/multi_chat_file",
+            "size": "75404",
+            "fileMd5": "583fcf4d34a543a97d76530f43123ce0",
+            "endpoint": "oss-us-east-1.aliyuncs.com",
+            "fileName": "ba22ba16-0e8e-4644-bdec-115404a22d42.mp3",
+            "mimeType": "mpeg",
+            "fileScene": 11,
+            "bucketName": "hailuo-video",
+            "originFileName": "output.mp3"
+        },
+        "user_id": "e57ed5aa-5fd4-4fa1-a431-5d73b19a8119",
+        "voice_info": {
+            "file_id": "315781607846060",
+            "uniq_id": "moss_audio_8f48c494-98a1-11f0-ac24-56b1c4839062",
+            "group_id": "1969323556995080740",
+            "tag_list": [
+                "Vietnamese",
+                "Female",
+                "Clone"
+            ],
+            "voice_id": "315780965224537",
+            "collected": false,
+            "cover_url": "https://cdn.hailuoai.video/moss/staging/2024-11-21-14/moss-audio/voice_cover//1732170882883038555-207331589840963.png?x-oss-process=image/resize,p_50/format,webp",
+            "voice_name": "Giọng hay",
+            "create_time": 1758648024630,
+            "description": "",
+            "update_time": 1758648024630,
+            "sample_audio": "https://cdn.hailuoai.video/moss/prod/2025-09-24-01/moss-audio/voice/u_1969323556995080740/demo/1758648020005391408-315781607846060_Vietnamese.mp3",
+            "voice_status": 2,
+            "parent_voice_id": "0",
+            "generate_channel": 1
+        },
+        "ref": null,
+        "minimax_api_id": null,
+        "deleted_at": null
+    }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "id": "298831571210471",
+    "title": "Nguyễn Ngân - Elevenlabs",
+    "avatar": "https://cdn.hailuoai.video/moss/staging/2024-11-21-14/moss-audio/voice_cover//1732171101706191124-207331589840988.png?x-oss-process=image/resize,p_50/format,webp",
+    "key": "298831571210471",
+    "language": "Vietnamese",
+    "tags": [
+      "Vietnamese",
+      "Female",
+      "Clone"
+    ],
+    "provider": "minimax",
+    "sample_audio": "https://cdn.hailuoai.video/moss/prod/2025-08-07-04/moss-audio/voice/u_1952675798133514395/demo/1754511222315955792-298836796960934_Vietnamese.mp3"
+  },
+  {
+    "id": "298839373959261",
+    "title": "Anh Khôi - VBee",
+    "avatar": "https://cdn.hailuoai.video/moss/staging/2024-11-21-14/moss-audio/voice_cover//1732171556053389397-207334257025090.png?x-oss-process=image/resize,p_50/format,webp",
+    "key": "298839373959261",
+    "language": "Vietnamese",
+    "tags": [
+      "Vietnamese",
+      "Male",
+      "Clone"
+    ],
+    "provider": "minimax",
+    "sample_audio": "https://cdn.hailuoai.video/moss/prod/2025-08-07-04/moss-audio/voice/u_1952675798133514398/demo/1754512332939432365-298842129252486_Vietnamese.mp3"
+  },
+  {
+    "id": "298831571210465",
+    "title": "Alloy - OpenAI",
+    "avatar": "https://cdn.hailuoai.video/moss/staging/2024-11-21-14/moss-audio/voice_cover//1732171514479796864-207331589841022.png?x-oss-process=image/resize,p_50/format,webp",
+    "key": "298831571210465",
+    "language": "Vietnamese",
+    "tags": [
+      "Vietnamese",
+      "Male",
+      "Clone"
+    ],
+    "provider": "minimax",
+    "sample_audio": "https://cdn.hailuoai.video/moss/prod/2025-08-07-04/moss-audio/voice/u_1952678570606202937/demo/1754511029740633762-298836021792871_Vietnamese.mp3"
+  },
+  {
+    "id": "298837653291221",
+    "title": "Ngọc Huyền - VBee",
+    "avatar": "https://cdn.hailuoai.video/moss/staging/2024-11-21-14/moss-audio/voice_cover//1732171565701695345-207334257025092.png?x-oss-process=image/resize,p_50/format,webp",
+    "key": "298837653291221",
+    "language": "Vietnamese",
+    "tags": [
+      "Vietnamese",
+      "Female",
+      "Clone"
+    ],
+    "provider": "minimax",
+    "sample_audio": "https://cdn.hailuoai.video/moss/prod/2025-08-07-04/moss-audio/voice/u_1952675798133514398/demo/1754512154989768121-298841249120333_Vietnamese.mp3"
+  },
+  {
+    "id": "300393121280221",
+    "title": "Vẫn Vẫn",
+    "avatar": "https://cdn.hailuoai.video/moss/staging/2024-11-21-14/moss-audio/voice_cover//1732171070538161266-207331589840981.png?x-oss-process=image/resize,p_50/format,webp",
+    "key": "300393121280221",
+    "language": "Vietnamese",
+    "tags": [
+      "Vietnamese",
+      "Female",
+      "Clone"
+    ],
+    "provider": "minimax",
+    "sample_audio": "https://cdn.hailuoai.video/moss/prod/2025-08-11-13/moss-audio/voice/u_1954577597891355158/demo/1754891418654058589-300394393391260_Vietnamese.mp3"
+  },
+  {
+    "id": "300396419883085",
+    "title": "Matthew",
+    "avatar": "https://cdn.hailuoai.video/moss/staging/2024-11-21-14/moss-audio/voice_cover//1732171434676353759-207331589841018.png?x-oss-process=image/resize,p_50/format,webp",
+    "key": "300396419883085",
+    "language": "English",
+    "tags": [
+      "English",
+      "Male",
+      "Clone"
+    ],
+    "provider": "minimax",
+    "sample_audio": "https://cdn.hailuoai.video/moss/prod/2025-08-11-13/moss-audio/voice/u_1954406678099136689/demo/1754891982531601998-300396069544061_English.mp3"
+  },
+  {
+    "id": "315780965224537",
+    "title": "Giọng hay",
+    "avatar": "https://cdn.hailuoai.video/moss/staging/2024-11-21-14/moss-audio/voice_cover//1732170882883038555-207331589840963.png?x-oss-process=image/resize,p_50/format,webp",
+    "key": "315780965224537",
+    "language": "Vietnamese",
+    "tags": [
+      "Vietnamese",
+      "Female",
+      "Clone"
+    ],
+    "provider": "minimax",
+    "sample_audio": "https://cdn.hailuoai.video/moss/prod/2025-09-24-01/moss-audio/voice/u_1969323556995080740/demo/1758648020005391408-315781607846060_Vietnamese.mp3"
+  }
+]

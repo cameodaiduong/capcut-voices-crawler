@@ -1,0 +1,202 @@
+[
+  {
+    "value": "english",
+    "label": "English",
+    "sample_text": "Hello, I'm delighted to assist you with our voice services. Choose a voice that resonates with you, and let's begin our creative audio journey together"
+  },
+  {
+    "value": "vietnamese",
+    "label": "Vietnamese",
+    "sample_text": "Xin chào, tôi rất vui được hỗ trợ bạn với các dịch vụ giọng nói của chúng tôi. Hãy chọn một giọng nói phù hợp với bạn và cùng bắt đầu hành trình âm thanh sáng tạo của chúng ta"
+  },
+  {
+    "value": "arabic",
+    "label": "Arabic",
+    "sample_text": "مرحبًا، يسعدني أن أقدم لكم خدماتنا الصوتي. أختر النبرة التي تثير اهتمامك، ودعنا ننطلق معاً في رحلة ساحرة لصناعة الصوت"
+  },
+  {
+    "value": "cantonese",
+    "label": "Cantonese",
+    "sample_text": "你好,好開心可以為你提供配音服務。揀選你喜歡嘅聲音,同我一齊開啟聲音創作嘅精彩旅程"
+  },
+  {
+    "value": "chinese (mandarin)",
+    "label": "Chinese (Mandarin)",
+    "sample_text": "您好,很高兴能为您提供配音服务。选择您感兴趣的音色,让我们一起开启声音创作的奇幻之旅吧。"
+  },
+  {
+    "value": "dutch",
+    "label": "Dutch",
+    "sample_text": "Hallo, ik ben verheugd je te assisteren met onze stemdiensten. Kies een stem die bij je past en laten we samen aan onze creatieve audio-reis beginnen."
+  },
+  {
+    "value": "french",
+    "label": "French",
+    "sample_text": "Bonjour, je suis ravi de vous accompagner dans nos services vocaux. Choisissez la voix qui vous inspire et créons ensemble votre projet sonore"
+  },
+  {
+    "value": "german",
+    "label": "German",
+    "sample_text": "Guten Tag, ich freue mich, Sie bei unseren Sprachdiensten unterstützen zu dürfen. Wählen Sie Ihre bevorzugte Stimme aus und lassen Sie uns gemeinsam Ihre Audio-Welt gestalten"
+  },
+  {
+    "value": "indonesian",
+    "label": "Indonesian",
+    "sample_text": "Selamat datang, senang bisa membantu Anda dengan layanan suara kami. Silakan pilih karakter suara yang Anda sukai dan mari mulai perjalanan kreatif bersama"
+  },
+  {
+    "value": "italian",
+    "label": "Italian",
+    "sample_text": "Buongiorno, sono lieto di assistervi con i nostri servizi vocali. Scegliete la voce che preferite e iniziamo insieme questo percorso creativo"
+  },
+  {
+    "value": "japanese",
+    "label": "Japanese",
+    "sample_text": "このたびは、音声生成サービスをご利用いただきありがとうございます。お好みの声をお選びいただき、音声創作の旅を楽しみましょう。"
+  },
+  {
+    "value": "korean",
+    "label": "Korean",
+    "sample_text": "안녕하세요, 음성 서비스를 제공해 드릴 수 있어서 기쁩니다. 마음에 드시는 목소리를 선택하시면 함께 멋진 음성 제작을 시작해보도록 하겠습니다."
+  },
+  {
+    "value": "portuguese",
+    "label": "Portuguese",
+    "sample_text": "Olá, é um prazer ajudá-lo com nossos serviços de voz. Escolha a voz que mais combina com você e vamos juntos criar algo especial"
+  },
+  {
+    "value": "russian",
+    "label": "Russian",
+    "sample_text": "Здравствуйте, рад помочь вам с нашими голосовыми услугами. Выберите понравившийся голос, и давайте вместе создадим что-то особенное."
+  },
+  {
+    "value": "spanish",
+    "label": "Spanish",
+    "sample_text": "Hola, es un placer ayudarte con nuestros servicios de voz. Elige el tono de voz que más te guste y comencemos juntos esta aventura creativa"
+  },
+  {
+    "value": "turkish",
+    "label": "Turkish",
+    "sample_text": "Merhaba, ses hizmetlerimizle size yardımcı olmaktan mutluluk duyuyorum. İhtiyaçlarınıza en uygun sesi seçin ve birlikte yaratıcı bir ses yolculuğuna başlayalım"
+  },
+  {
+    "value": "ukrainian",
+    "label": "Ukrainian",
+    "sample_text": "Привіт, я радий допомогти вам з нашими голосовими послугами. Виберіть голос, який вам подобається, і давайте розпочнемо нашу творчу аудіо-подорож разом."
+  },
+  {
+    "value": "thai",
+    "label": "Thai",
+    "sample_text": "สวัสดีค่ะ/ครับ ยินดีอย่างยิ่งที่ได้ช่วยคุณกับบริการเสียงของเรา เลือกเสียงที่เชื่อมโยง แล้วมาเริ่มต้นการเดินทางสร้างสรรค์ด้านเสียงไปด้วยกัน"
+  },
+  {
+    "value": "polish",
+    "label": "Polish",
+    "sample_text": "Cześć, z przyjemnością pomogę Ci w korzystaniu z naszych usług głosowych. Wybierz głos, który z Tobą rezonuje, i rozpocznijmy razem kreatywną podróż dźwiękową"
+  },
+  {
+    "value": "romanian",
+    "label": "Romanian",
+    "sample_text": "Bună, mă bucur să te asist cu serviciile noastre vocale. Alege o voce care rezonează cu tine și hai să începem împreună călătoria noastră audio creativă"
+  },
+  {
+    "value": "greek",
+    "label": "Greek",
+    "sample_text": "Γεια σας, είναι χαρά μου να σας βοηθήσω με τις υπηρεσίες φωνής μας. Επιλέξτε μια φωνή που σας εκφράζει και ας ξεκινήσουμε μαζί το δημιουργικό μας ηχητικό ταξίδι"
+  },
+  {
+    "value": "czech",
+    "label": "Czech",
+    "sample_text": "Dobrý den, je mi potěšením vám pomoci s našimi hlasovými službami. Vyberte si hlas, který s vámi rezonuje, a pojďme společně zahájit tvůrčí zvukovou cestu"
+  },
+  {
+    "value": "finnish",
+    "label": "Finnish",
+    "sample_text": "Hei, ilo auttaa sinua äänipalveluissamme. Valitse ääni, joka puhuttelee sinua, ja aloitetaan yhdessä luova äänimatka"
+  },
+  {
+    "value": "hindi",
+    "label": "Hindi",
+    "sample_text": "नमस्ते, हमारी वॉयस सेवाओं में आपकी सहायता करके मुझे खुशी हो रही है। वह आवाज़ चुनें जो आपके मन को भाए, और आइए मिलकर एक रचनात्मक ऑडियो यात्रा शुरू करें"
+  },
+  {
+    "value": "bulgarian",
+    "label": "Bulgarian",
+    "sample_text": "Здравейте, радвам се да ви помогна с нашите гласови услуги. Изберете глас, който ви харесва, и нека започнем нашето творческо аудио пътешествие заедно."
+  },
+  {
+    "value": "danish",
+    "label": "Danish",
+    "sample_text": "Hej, jeg er glad for at hjælpe dig med vores stemmetjenester. Vælg en stemme, der taler til dig, og lad os begynde vores kreative lydrejse sammen."
+  },
+  {
+    "value": "hebrew",
+    "label": "Hebrew",
+    "sample_text": "שלום, אני שמח לסייע לך עם שירותי הקול שלנו. בחר בקול שמדבר אליך, ובואו נתחיל יחד את המסע האודיו היצירתי שלנו."
+  },
+  {
+    "value": "malay",
+    "label": "Malay",
+    "sample_text": "Hello, saya gembira untuk membantu anda dengan perkhidmatan suara kami. Pilih suara yang sesuai dengan anda, dan mari kita mulakan perjalanan audio kreatif kita bersama-sama."
+  },
+  {
+    "value": "persian",
+    "label": "Persian",
+    "sample_text": "سلام، من خوشحالم که در خدمات صوتی ما به شما کمک کنم. صدایی را انتخاب کنید که با شما طنین‌انداز باشد و بیایید سفر صوتی خلاقانه‌مان را با هم آغاز کنیم."
+  },
+  {
+    "value": "slovak",
+    "label": "Slovak",
+    "sample_text": "Ahoj, som rád, že vám môžem pomôcť s našimi hlasovými službami. Vyberte si hlas, ktorý vám vyhovuje, a začnime spolu naše kreatívne zvukové putovanie."
+  },
+  {
+    "value": "swedish",
+    "label": "Swedish",
+    "sample_text": "Hej, jag är glad att hjälpa dig med våra rösttjänster. Välj en röst som tilltalar dig, och låt oss börja vår kreativa ljudresa tillsammans."
+  },
+  {
+    "value": "croatian",
+    "label": "Croatian",
+    "sample_text": "Pozdrav, drago mi je pomoći vam s našim glasovnim uslugama. Odaberite glas koji vam odgovara i počnimo zajedno naše kreativno zvučno putovanje."
+  },
+  {
+    "value": "filipino",
+    "label": "Filipino",
+    "sample_text": "Pozdrav, drago mi je pomoći vam s našim glasovnim uslugama. Odaberite glas koji vam odgovara i počnimo zajedno naše kreativno zvučno putovanje."
+  },
+  {
+    "value": "hungarian",
+    "label": "Hungarian",
+    "sample_text": "Üdvözlöm, örömmel segítek Önnek hangszolgáltatásainkkal. Válasszon egy hangot, amely megtetszik Önnek, és kezdjük el együtt kreatív audio utazásunkat."
+  },
+  {
+    "value": "norwegian",
+    "label": "Norwegian",
+    "sample_text": "Hei, jeg er glad for å hjelpe deg med våre stemmetjenester. Velg en stemme som appellerer til deg, og la oss begynne vår kreative lydreise sammen."
+  },
+  {
+    "value": "slovenian",
+    "label": "Slovenian",
+    "sample_text": "Pozdravljeni, vesel sem, da vam lahko pomagam z našimi glasovnimi storitvami. Izberite glas, ki se vam zdi privlačen, in skupaj začnimo naše ustvarjalno zvočno potovanje."
+  },
+  {
+    "value": "catalan",
+    "label": "Catalan",
+    "sample_text": "Hola, em complau ajudar-vos amb els nostres serveis de veu. Trieu una veu que us ressoni, i comencem junts el nostre viatge àudio creatiu."
+  },
+  {
+    "value": "nynorsk",
+    "label": "Nynorsk",
+    "sample_text": "Hei, eg er glad for å hjelpe deg med stemmetenestene våre. Vel ein stemme som talar til deg, og lat oss byrje den kreative lydreisa vår saman."
+  },
+  {
+    "value": "tamil",
+    "label": "Tamil",
+    "sample_text": "Hei, eg er glad for å hjelpe deg med stemmetenestene våre. Vel ein stemme som talar til deg, og lat oss byrje den kreative lydreisa vår saman."
+  },
+  {
+    "value": "afrikaans",
+    "label": "Afrikaans",
+    "sample_text": "Hallo, ek is bly om jou te help met ons stemdienste. Kies 'n stem wat met jou resoneer, en kom ons begin ons kreatiewe klankjoernaal saam."
+  }
+]
