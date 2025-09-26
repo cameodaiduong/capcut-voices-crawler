@@ -83,6 +83,8 @@ const filter_items = items.map((item) => {
   const tone_type_object = JSON.parse(tonetype || "{}");
   const { voice_type = "" } = tone_type_object;
   const language = detectCapcutLanguage(item.common_attr.tag_list);
+  const raw_tags = item.common_attr.tag_list;
+  const tags = raw_tags.map((tag) => tag.name);
 
   return {
     id: item.common_attr.id,
@@ -90,7 +92,7 @@ const filter_items = items.map((item) => {
     avatar: tone_avatar_url?.url,
     key: voice_type,
     language,
-    tags: item.common_attr.tag_list,
+    tags,
     provider: "capcut",
     sample_audio: null,
   };

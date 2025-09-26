@@ -5,6 +5,7 @@ const items = JSON.parse(rawData);
 
 const filter_items = items.map((item) => {
   const id = item?.voice_id;
+  const key = item?.uniq_id;
   const avatar = item?.cover_url;
   const title = item?.voice_name;
   const sample_audio = item?.sample_audio;
@@ -15,7 +16,7 @@ const filter_items = items.map((item) => {
     id,
     title,
     avatar,
-    key: id,
+    key,
     language,
     tags: tag_list,
     provider: "minimax",
